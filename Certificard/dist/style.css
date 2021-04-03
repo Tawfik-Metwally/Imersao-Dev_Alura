@@ -1,0 +1,66 @@
+body{
+  background-color:#03a9f4;
+}
+h1{
+  font-family: 'Roboto', sans-serif;
+}
+section{
+  -webkit-box-shadow: 0px 0px 7px 10px rgba(0,0,0,0.59); 
+  box-shadow: 0px 0px 7px 10px #f0f2fc94;
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  margin-top: 100px;
+  padding: 15px;
+  background-color: #E0FFFF;
+  border-radius: 5px;
+  border: 1px solid #f0f2fc;
+  font-family: 'Quicksand', sans-serif;
+}
+
+header{
+  background-image: url("https://ak.picdn.net/shutterstock/videos/31579318/thumb/1.jpg");
+  background-size: cover;
+  height: 80px;
+  border-radius: 5px;
+}
+
+div{
+  padding-left: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin: 15px;
+  background-color: #ffdd4066;
+  border: 1px solid #f0f2fc;
+  border-radius: 5px;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh9Eu1RzHRxJwBstGk8qJUT3vGO7iyiVj5DCBLfZiW1I5I03USNq9JEWcog4QlqRyfuyU&usqp=CAU");
+  background-repeat: no-repeat;
+  background-size: 100px 100px;
+  background-position-x: 97%;
+  background-position-y: 92%;
+}
+
+li{
+  font-size: 17px;
+  margin-bottom: 5px;
+}
+
+.fotoPerfil{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  border-radius: 100%;
+  width: 150px;
+  height: 150px;
+  transform: translateY(-50%);
+  border: 10px solid #E0FFFF;
+}
+
+.fotoJS{
+  width: 100px;
+  height: 100px;
+  margin-left: auto;
+  display: block;
+  margin-right: 15px;
+}
